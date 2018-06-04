@@ -1,0 +1,53 @@
+
+var friends=[
+{
+    "name":"dipz",
+    "photo":"https://www.codeproject.com/KB/GDI-plus/ImageProcessing2/img.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Brenza",
+    "photo":"http://via.placeholder.com/350x150",
+    "scores":[
+        5,
+        1,
+        9,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Couton",
+    "photo":"https://imagejournal.org/wp-content/uploads/bb-plugin/cache/23466317216_b99485ba14_o-panorama.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        1,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  }
+]
+
+module.exports= friends;

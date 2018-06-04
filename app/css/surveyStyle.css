@@ -1,0 +1,31 @@
+
+body {
+    margin:0;
+    padding:0;
+    background:url("/css/backgroundIMG") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   
+
+}
+
+.btn{
+    background-color: darkolivegreen;
+}
+
+a{
+    color:gold;
+    font-size: 22px;
+}
+
+.modal-body{
+    margin:0;
+    padding:0;
+    background:url("/css/backgroundIMG") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
