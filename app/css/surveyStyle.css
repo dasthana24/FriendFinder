@@ -28,4 +28,10 @@ a{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+.modal-dialog{
+    background-color: cadetblue;
 }
